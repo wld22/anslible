@@ -1,0 +1,6 @@
+[web]
+127.0.0.1
+
+[web:vars]
+ansible_python_interpreter=/usr/bin/python3
+
