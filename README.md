@@ -17,3 +17,5 @@ To setup postgresql with user and password, please run next playbook:
 ansible-playbook -i db_install.yml
 also please use -K parameter for your SSH private key
 and -u for specifying a remote user
+
+(all playbooks were sucsefylly installaed on AWS Ubuntu 20.04)
